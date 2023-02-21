@@ -1,7 +1,7 @@
 package hw1
 
 import (
-	"github.com/dati-mipt/distributed-systems/network"
+	"github.com/iluhinsky/distributed-systems/network"
 )
 
 type FaultTolerantRegister struct {

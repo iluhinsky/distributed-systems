@@ -3,8 +3,8 @@ package counter
 import (
 	"context"
 
-	"github.com/dati-mipt/distributed-systems/network"
-	"github.com/dati-mipt/distributed-systems/util"
+	"github.com/iluhinsky/distributed-systems/network"
+	"github.com/iluhinsky/distributed-systems/util"
 )
 
 type replicatedCounts map[int64]int64

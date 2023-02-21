@@ -3,7 +3,7 @@ package counter
 import (
 	"context"
 
-	"github.com/dati-mipt/distributed-systems/network"
+	"github.com/iluhinsky/distributed-systems/network"
 )
 
 type BroadcastCounter struct {

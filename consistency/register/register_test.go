@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/dati-mipt/distributed-systems/network"
+	"github.com/iluhinsky/distributed-systems/network"
 )
 
 type mockRegister struct {

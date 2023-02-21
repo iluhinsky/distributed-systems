@@ -60,4 +60,4 @@ __Topic 10. Modern blockchain systems__:
 
 
 ### Home assignments
-* [Home Assignment 1](https://github.com/dati-mipt/distributed-systems/blob/master/assignments/hw1/README.md)
+* [Home Assignment 1](https://github.com/iluhinsky/distributed-systems/blob/master/assignments/hw1/README.md)

@@ -3,7 +3,7 @@ package register
 import (
 	"context"
 
-	"github.com/dati-mipt/distributed-systems/network"
+	"github.com/iluhinsky/distributed-systems/network"
 )
 
 type SingleCopyRegister struct {
